@@ -30,10 +30,12 @@ Report URL:
 # Governance & Ownerships
 
 MultiSig (safe-core-sdk):
-- https://andromeda-explorer.metis.io/address/0xE089A4EFa2dA690f21a3ea682cb36Dc4AC007995
+- Metis: https://andromeda-explorer.metis.io/address/0xE089A4EFa2dA690f21a3ea682cb36Dc4AC007995
+- Arbitrum: https://arbiscan.io/address/0xca0dfc4e1935ffa0019aa760db0564b8cdd96e6e
 
 HeraSecurity (Timelock) (HeraSecurity.sol):
-- https://andromeda-explorer.metis.io/address/0x6da6317e819d6a19c28f0a59291F85FB41b02225
+- Metis: https://andromeda-explorer.metis.io/address/0x6da6317e819d6a19c28f0a59291F85FB41b02225
+- Arbitrum: https://arbiscan.io/address/0xCE3759244610Fc69F95db143338c9ED0Dc356fd0
   - proposers, executors = MultiSig
 
 
