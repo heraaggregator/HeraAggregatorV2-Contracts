@@ -1,14 +1,17 @@
 # HeraAggregatorV2-Contracts
 Router and side-contracts of Hera Dex Aggregator v2
 
-Aggregator Router v2: 0x0000000000924fb1969e719edeD2feD54AFB183A
+Aggregator Router v2: 0x0000000000924fb1969e719edeD2feD54AFB183A (HeraAggregatorV2: Router)
 
 - Metis: https://andromeda-explorer.metis.io/address/0x0000000000924fb1969e719edeD2feD54AFB183A
 - Arbitrum: https://arbiscan.io/address/0x0000000000924fb1969e719edeD2feD54AFB183A
 
-Hera Fee Sequencer v2: 0x000000fEe322aAA0a5772e7F92DE10180f9fAB15
+Metis - Hera Fee Sequencer v2
 
 - Metis: https://andromeda-explorer.metis.io/address/0x000000fEe322aAA0a5772e7F92DE10180f9fAB15
+
+Arbitrum - Hera Fee Sequencer v2
+
 - Arbitrum: https://arbiscan.io/address/
 
 
