@@ -18,7 +18,7 @@ Hera Fee Sequencer v2: 0x000000fEe322aAA0a5772e7F92DE10180f9fAB15
 
 #Audited by HashEx
 
-Report URL: 
+Report URL: https://docs.hera.finance/audits
 
 
  
