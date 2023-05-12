@@ -6,13 +6,13 @@ HeraAggregatorV2: Router
 - Metis: https://andromeda-explorer.metis.io/address/0x0000000000924fb1969e719edeD2feD54AFB183A
 - Arbitrum: https://arbiscan.io/address/0x0000000000924fb1969e719edeD2feD54AFB183A
 
-Metis - Hera Fee Sequencer v2
+Metis - HeraFeeSequencer
 
 - Metis: https://andromeda-explorer.metis.io/address/0x000000fEe322aAA0a5772e7F92DE10180f9fAB15
 
-Arbitrum - Hera Fee Sequencer v2
+Arbitrum - HeraFeeSequencer
 
-- Arbitrum: https://arbiscan.io/address/
+- Arbitrum: https://arbiscan.io/address/0x699127412aC7304F3897F410974677F747f2e9DF
 
 
 
