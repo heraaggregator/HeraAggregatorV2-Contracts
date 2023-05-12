@@ -9,7 +9,7 @@ HeraAggregatorV2: Router
 Hera Executor
 
 - Metis: https://andromeda-explorer.metis.io/address/0x765fa67B25fc801F7802604F7326c215c3a973A0
-- Arbitrum: https://arbiscan.io/address/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE
+- Arbitrum: https://arbiscan.io/address/0x1bd717c5cDd133E1985628e1e194B0ED9C9047E7
 
 Metis - HeraFeeSequencer
 
